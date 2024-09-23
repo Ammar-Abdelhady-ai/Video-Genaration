@@ -35,5 +35,5 @@ This project showcases a simulation of an advanced AI lab in a futuristic settin
    ```
 3. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   !pip install --upgrade transformers accelerate diffusers imageio-ffmpeg
    ```
