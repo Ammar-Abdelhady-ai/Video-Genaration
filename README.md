@@ -17,13 +17,6 @@ This project showcases a simulation of an advanced AI lab in a futuristic settin
 - **Autonomous Systems Integration:** Interaction with smart city AI systems and autonomous drones to reflect the AI's influence on city management.
 - **Quantum Computing Simulation:** Representation of quantum computers for high-performance computing in AI model training.
 
-## **Files and Structure**
-- **/models**: Contains pre-trained machine learning models used by the humanoid AI for neural network manipulation.
-- **/scripts**: Python scripts for simulating the robot's interaction with data and the smart city systems.
-- **/data**: Sample datasets for testing neural network training and optimization.
-- **/assets**: Includes holographic interface designs and AI robot models.
-- **/docs**: Documentation for understanding how to run and contribute to the project.
-
 ## **Installation**
 1. Clone the repository:
    ```bash
